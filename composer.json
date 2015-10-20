@@ -1,0 +1,16 @@
+{
+    "name": "kupishoes/advlock_client",
+    "description": "PHP client for Advlock",
+    "authors": [
+        {
+            "name": "Denis Girko",
+            "email": "denis.girko@lamoda.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-0": {
+        "Advlock": "src/"
+      }
+    }
+}
