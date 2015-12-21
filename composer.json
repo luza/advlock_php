@@ -1,10 +1,10 @@
 {
-    "name": "kupishoes/advlock_client",
+    "name": "luza/advlock_client",
     "description": "PHP client for Advlock",
     "authors": [
         {
             "name": "Denis Girko",
-            "email": "denis.girko@lamoda.ru"
+            "email": "luza.mbox@gmail.com"
         }
     ],
     "require": {},
